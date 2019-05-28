@@ -1,0 +1,18 @@
+/Users/DanielleAlloy/RiderProjects/Transcript/bin/Debug/Transcript.dll
+/Users/DanielleAlloy/RiderProjects/Transcript/bin/Debug/Transcript.pdb
+/Users/DanielleAlloy/RiderProjects/Transcript/obj/Debug/Transcript.csprojAssemblyReference.cache
+/Users/DanielleAlloy/RiderProjects/Transcript/obj/Debug/Transcript.csproj.CoreCompileInputs.cache
+/Users/DanielleAlloy/RiderProjects/Transcript/obj/Debug/Transcript.dll
+/Users/DanielleAlloy/RiderProjects/Transcript/obj/Debug/Transcript.pdb
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 2/Transcript/bin/Debug/Transcript.dll
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 2/Transcript/bin/Debug/Transcript.pdb
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 2/Transcript/obj/Debug/Transcript.csprojAssemblyReference.cache
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 2/Transcript/obj/Debug/Transcript.csproj.CoreCompileInputs.cache
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 2/Transcript/obj/Debug/Transcript.dll
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 2/Transcript/obj/Debug/Transcript.pdb
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 3/Transcript/bin/Debug/Transcript.dll
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 3/Transcript/bin/Debug/Transcript.pdb
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 3/Transcript/obj/Debug/Transcript.csprojAssemblyReference.cache
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 3/Transcript/obj/Debug/Transcript.csproj.CoreCompileInputs.cache
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 3/Transcript/obj/Debug/Transcript.dll
+/Volumes/OWC HD/The Cloud/OneDrive - Farmingdale/BCS426 - C# Programming/Homework/Assignment 3/Transcript/obj/Debug/Transcript.pdb

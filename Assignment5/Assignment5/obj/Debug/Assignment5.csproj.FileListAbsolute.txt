@@ -1,0 +1,36 @@
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\App.g.cs
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Transcript.dll
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Transcript.pdb
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\MainWindow.g.cs
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\MainWindow.baml
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.g.resources
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CopyComplete
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+V:\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Assignment5.exe.config
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Assignment5.exe
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Assignment5.pdb
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Transcript.dll
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\bin\Debug\Transcript.pdb
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.csprojAssemblyReference.cache
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\MainWindow.g.cs
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\App.g.cs
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.cache
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5_MarkupCompile.lref
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\MainWindow.baml
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.g.resources
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.Properties.Resources.resources
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.GenerateResource.cache
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CoreCompileInputs.cache
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.csproj.CopyComplete
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.exe
+\\Mac\OWC HD\The Cloud\OneDrive - Farmingdale\BCS426 - C# Programming\Homework\Assignment 5\Assignment5\Assignment5\obj\Debug\Assignment5.pdb
